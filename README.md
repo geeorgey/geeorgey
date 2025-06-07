@@ -31,3 +31,20 @@
   - <img src="https://lne.st/wp-content/uploads/2025/05/78626087_10221322607716697_5436811581734256640_n-9.jpg" alt="吉田丈治プロフィールアイコン画像" width="200" height="200">
 - Dreamforce 2019 Einstein Keynote
   - <img src="https://lne.st/wp-content/uploads/2025/05/7e97b4dac4bfd3718fa55f612fcbce1c.png" alt="Dreamforce 2019 Einstein Keynote" width="200" height="200">
+
+## SaaS導入履歴
+- 2014/01 Salesforce Sales Cloud
+- 2014/12 Pardot(現Account Engagement)
+- 2015/09 Slack
+- 2017/01 Community Cloud(現Experience Cloud)
+- 2018/01 Quip
+- 2018/03 Sales Cloud Einstein
+- 2019/01 Heroku / CRM Analytics / myTrailhead
+- 2019/06 Account Engagement Advance
+- 2020/08 Tableau
+- 2020/12 Slack Enterprise Grid
+- 2023/10 snowflake
+- 2023/12 Salesforce Data Cloud
+- 2024/01 Sales Cloud Einstein 1 Platform
+- 2024/08 SlackAI
+- 2025/05 [OpenAI ChatGPT Enterprise](https://lne.st/2025/05/16/lnest-openai/)
