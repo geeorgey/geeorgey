@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=geeorgey)
 
-[ChatGPT DeepReseach (2025/02/22 20:00)](https://chatgpt.com/share/67b9b789-6b28-800a-a685-c615e22dc94b)
+[ChatGPT DeepReseach (2025/06/7 20:00)](https://chatgpt.com/c/6843d10c-5fc0-8018-a60d-94935fbf6367)
 
 # YOSHIDA George / 吉田 丈治
 - X(Twitter) [@geeorgey](https://x.com/geeorgey)
@@ -24,3 +24,5 @@
 
 ## 表彰等
 - [Salesforce Partner Award 2025 -Slack-](https://prtimes.jp/main/html/rd/p/000000010.000128333.html)
+
+## Images
