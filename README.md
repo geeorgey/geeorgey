@@ -27,3 +27,7 @@
 - [Salesforce Partner Award 2025 -Slack-](https://prtimes.jp/main/html/rd/p/000000010.000128333.html)
 
 ## Images
+- Profile
+  - <img src="https://lne.st/wp-content/uploads/2025/05/78626087_10221322607716697_5436811581734256640_n-9.jpg" alt="吉田丈治プロフィールアイコン画像" width="200" height="200">
+- Dreamforce 2019 Einstein Keynote
+  - <img src="https://lne.st/wp-content/uploads/2025/05/7e97b4dac4bfd3718fa55f612fcbce1c.png" alt="Dreamforce 2019 Einstein Keynote" width="200" height="200">
