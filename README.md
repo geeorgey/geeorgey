@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=geeorgey)
 
-[ChatGPT DeepReseach (2025/06/7 20:00)](https://chatgpt.com/c/6843d10c-5fc0-8018-a60d-94935fbf6367)
+- ChatGPT DeepReseach
+  -[(2025/06/7 20:00)](https://chatgpt.com/share/e/6843d6af-e220-8018-85ba-301e25d59ac2)
 
 # YOSHIDA George / 吉田 丈治
 - X(Twitter) [@geeorgey](https://x.com/geeorgey)
