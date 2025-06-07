@@ -3,7 +3,24 @@
 [ChatGPT DeepReseach (2025/02/22 20:00)](https://chatgpt.com/share/67b9b789-6b28-800a-a685-c615e22dc94b)
 
 # YOSHIDA George / 吉田 丈治
-> X(Twitter) [@geeorgey](https://x.com/geeorgey)
-> Facebook [GeorgeYoshida](https://www.facebook.com/GeorgeYoshida/)
-> LinkedIn [George (吉田丈治) Yoshida](https://www.linkedin.com/in/geeorgey/)
+- X(Twitter) [@geeorgey](https://x.com/geeorgey)
+- Facebook [GeorgeYoshida](https://www.facebook.com/GeorgeYoshida/)
+- LinkedIn [George (吉田丈治) Yoshida](https://www.linkedin.com/in/geeorgey/)
 
+## 所属 / 仕事
+- 株式会社リバネス
+  - 取締役CIO(2014-)
+  - 常務取締役CMO(-2013)
+  - 創業(2002)
+- 株式会社リバネスナレッジ
+  - 代表取締役社長(2022-)
+
+## コミュニティ活動
+- [Salesforce Salesblazer Community](https://trailblazercommunitygroups.com/salesblazer-japanese/)
+
+## 登壇
+- Dreamforce 2019 Einstein Keynote speaker
+- [登壇履歴](https://lne.st/k)
+
+## 表彰等
+- [Salesforce Partner Award 2025 -Slack-](https://prtimes.jp/main/html/rd/p/000000010.000128333.html)
